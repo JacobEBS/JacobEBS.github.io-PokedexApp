@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JacobEBS.github.io-PokedexApp/static/css/main.b16e025e.css",
+    "main.js": "/JacobEBS.github.io-PokedexApp/static/js/main.b705d95d.js",
+    "index.html": "/JacobEBS.github.io-PokedexApp/index.html",
+    "main.b16e025e.css.map": "/JacobEBS.github.io-PokedexApp/static/css/main.b16e025e.css.map",
+    "main.b705d95d.js.map": "/JacobEBS.github.io-PokedexApp/static/js/main.b705d95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b16e025e.css",
+    "static/js/main.b705d95d.js"
+  ]
+}
